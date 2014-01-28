@@ -12,11 +12,11 @@ On the client side `meteor-topojson` has no dependencies, although it will commo
 
 ## In your Meteor project:
 
-#### Client
-Exposes the `topojson` object, which implements the "Client API" on the client side. See the [TopoJSON GitHub Wiki](https://github.com/mbostock/topojson/wiki) for more information.
+#### Client:
+Exposes the `topojson` object which implements the "Client API". See the [TopoJSON GitHub Wiki](https://github.com/mbostock/topojson/wiki) for more information.
 
 #### Server:
-`meteor-topojson` exposes the `topojson` object, which implements the TopoJSON the extended TopoJSON "Server API" on the server side.  See the [TopoJSON GitHub Wiki](https://github.com/mbostock/topojson/wiki) for more information.
+`meteor-topojson` exposes the `topojson` object, which implements the TopoJSON the extended TopoJSON "Server API".  See the [TopoJSON GitHub Wiki](https://github.com/mbostock/topojson/wiki) for more information.
 
 ### Pull requests / issues
 Please feel free to make pull requests and submit issues here. Thank you!
