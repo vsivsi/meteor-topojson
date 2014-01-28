@@ -8,6 +8,11 @@ Package.on_use(function(api) {
   api.add_files('topojson.js', 'client');
 });
 
+Package.on_test(function (api) {
+  api.use(['topojson', 'tinytest']);
+  api.add_files('topojson_tests.js', ['server', 'client']);
+});
+
 Npm.depends({
   topojson: '1.4.6'
 });
