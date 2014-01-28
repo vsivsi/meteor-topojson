@@ -1,0 +1,9 @@
+{
+  "name": "topojson",
+  "description": "Meteor package to wrap TopoJSON: An extension to GeoJSON that encodes topology",
+  "homepage": "https://github.com/vsivsi/meteor-topojson",
+  "author": "Vaughn Iverson (https://https://github.com/vsivsi)",
+  "version": "0.0.1",
+  "git": "https://github.com/vsivsi/meteor-topojson.git",
+  "packages" : {}
+}
