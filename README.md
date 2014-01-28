@@ -8,7 +8,7 @@ a simple meteorite package for [Atmosphere](https://atmosphere.meteor.com), prov
 2. inside your project, run:
     `$ mrt add topojson`
 
-`meteor-topojson` has no dependencies, although it will commonly be used with the [d3](https://atmosphere.meteor.com/package/d3) package for plotting maps and other geographic data.
+On the client side `meteor-topojson` has no dependencies, although it will commonly be used with the [d3](https://atmosphere.meteor.com/package/d3) package for plotting maps and other geographic data.  On the server TopoJSON is installed via NPM, so all of the dependencies will be included and built automatically.
 
 ## In your Meteor project:
 
