@@ -1,5 +1,8 @@
-!function() {
-  var topojson = {
+// This file is from the TopoJSONproject, authored by Mike Bostock
+// From: https://github.com/mbostock/topojson/
+
+!function () {
+  topojson = {
     version: "1.4.6",
     mesh: mesh,
     feature: featureOrCollection,
