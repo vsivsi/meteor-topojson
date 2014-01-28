@@ -1,6 +1,6 @@
 # meteor-topojson
 
-a simple meteorite package for [Atmosphere](https://atmosphere.meteor.com), providing a wrapper for the [TopoJSON](https://github.com/mbostock/mbostock) library by [@mranney](https://github.com/mbostock).
+a simple meteorite package for [Atmosphere](https://atmosphere.meteor.com), providing a wrapper for the [TopoJSON](https://github.com/mbostock/mbostock) library by [Mike Bostock](https://github.com/mbostock).
 
 ## How to install:
 1. make sure you have [meteorite](https://github.com/oortcloud/meteorite) installed
